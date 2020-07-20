@@ -23,6 +23,6 @@ You can find and get touch with me on these accounts!
 
 [![Instagram Badge](https://img.shields.io/badge/onrtsdmr38-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/onrtsdmr38/)
 
-![visitors](https%3A%2F%2Fimg.shields.io%2Fbadge%2Fdynamic%2Fjson%3Fcolor%3Dinformational%26label%3Dvisits%26query%3Dvalue%26url%3Dhttps%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fonrtsdmr.onrtsdmr%2Freadme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fonrtsdmr.onrtsdmr%2Freadme)
 
 
