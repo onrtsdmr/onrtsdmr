@@ -20,7 +20,7 @@
 
 
 <h3 align="left">
-Learning & Using
+🧑‍💻 Learning & Using
 </h3>
 
 <p align="left"> 
