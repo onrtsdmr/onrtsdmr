@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Merhaba+Ben+Onur+TAŞDEMİR+👋;Full+Stack+Developer+🚀;1" alt="Typing SVG" />
 </div>
 
@@ -64,7 +64,7 @@ class Developer {
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/docs)
 
-<div align="center">
+<div>
   <h2> 🌐 İletişim </h2>
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onrtsdmr)
