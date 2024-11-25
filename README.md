@@ -31,19 +31,14 @@ class Developer {
 ```
 </div>
 
+<p>
+  <img align="left" src="https://komarev.com/ghpvc/?username=onrtsdmr&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="https://www.buymeacoffee.com/onurtasdemir" target="_blank">
+    <img align="right" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="28"/>
+  </a>
+</p>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=onrtsdmr&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-    </td>
-    <td align="right">
-      <a href="https://www.buymeacoffee.com/onurtasdemir">
-        <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
-      </a>
-    </td>
-  </tr>
-</table>
+<br clear="both"/>
 
 ## 🛠 Teknolojiler
 
