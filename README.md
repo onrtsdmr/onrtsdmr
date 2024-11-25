@@ -32,16 +32,22 @@ class Developer {
 </div>
 
 
-<p align="left" style="display: flex; align-items: center; gap: 10px;justify-content: space-between;"> 
-  <img src="https://komarev.com/ghpvc/?username=onrtsdmr&label=Profile%20views&color=0e75b6&style=flat" alt="onrtsdmr" />
-  <a href="https://www.buymeacoffee.com/onurtasdemir">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=onrtsdmr&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+    </td>
+    <td align="right">
+      <a href="https://www.buymeacoffee.com/onurtasdemir">
+        <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Teknolojiler
 
-### 🔙 Backend
+### ⚡ Backend
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs)
 
